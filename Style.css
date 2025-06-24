@@ -6,3 +6,9 @@ color:rgb(72, 213, 199)
     h2{
         color: orange; 
     } 
+.text-ingles{
+    font-style: italic;
+     } 
+     #nome-usuario{
+        font-weight: bolder;
+        } 

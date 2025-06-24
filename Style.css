@@ -1,14 +1,14 @@
-body{
-background-color:rgb(244, 216, 56);
-color:rgb(72, 213, 199)
-    }
+  body{
+    background-color: #305050;
+    color: white;
+}
 
-    h2{
-        color: orange; 
-    } 
-.text-ingles{
+h2{
+    color: orange;
+}
+.texto-ingles{
     font-style: italic;
-     } 
-     #nome-usuario{
-        font-weight: bolder;
-        } 
+}
+#nome-usuario{
+    font-weight: bold;
+}
